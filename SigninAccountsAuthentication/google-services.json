@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "3605321586",
+    "project_id": "expo-707be",
+    "storage_bucket": "expo-707be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3605321586:android:604531420199304fc96feb",
+        "android_client_info": {
+          "package_name": "com.samarthkadam.AwesomeProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3605321586-6a0orhunkok6f0r3o5oous21jhnehsqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samarthkadam.AwesomeProject",
+            "certificate_hash": "9a02a054794a71b22564c8a61a29b627f4013d9b"
+          }
+        },
+        {
+          "client_id": "3605321586-g216atca6qf95rukhbkpmc8jem80h29p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samarthkadam.AwesomeProject",
+            "certificate_hash": "37c17eb25024242edf1e882d71c2cf20f96855df"
+          }
+        },
+        {
+          "client_id": "3605321586-frvqpto7fj7t5fvgqo3e9f9vhecj5shs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKH5o_aVZhOad4mqaTq16bLd9ch_kOeOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3605321586-frvqpto7fj7t5fvgqo3e9f9vhecj5shs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

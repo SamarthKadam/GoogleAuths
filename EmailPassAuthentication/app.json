@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "PomodoroTimer",
+    "slug": "PomodoroTimer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2D2D2D"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#2D2D2D"
+      },
+      "softwareKeyboardLayoutMode":"pan",
+      "package": "com.samarthkadam.PomodoroApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "57b36ef2-a213-4fd2-8240-d2c033d2088c"
+      }
+    }
+  }
+}
